@@ -9,3 +9,14 @@ gpa = 3.2
 
 student = true
 employed = false
+
+puts name
+
+puts location
+
+name = "Jeffrey"
+location = "Valparaiso"
+
+puts name
+
+puts location
